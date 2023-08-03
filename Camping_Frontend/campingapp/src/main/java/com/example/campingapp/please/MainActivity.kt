@@ -1,4 +1,4 @@
-package com.example.campingapp.hi
+package com.example.campingapp.please
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
