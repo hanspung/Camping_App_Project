@@ -9,6 +9,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Camping_master">
         <activity
+            android:name=".Home.HomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".please.MainActivity"
             android:exported="false" />
         <activity
