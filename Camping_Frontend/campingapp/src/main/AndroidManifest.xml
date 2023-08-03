@@ -9,6 +9,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Camping_master">
         <activity
+            android:name=".hi.MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
