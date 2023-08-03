@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Camping_master"
 include(":app")
+include(":campingapp")
